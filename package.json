@@ -1,0 +1,30 @@
+{
+  "name": "build-pipeline-exercise",
+  "version": "1.0.0",
+  "description": "build-pipeline-exercise",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hangayzsolt/build-pipeline-exercise.git"
+  },
+  "keywords": [
+    "pipeline"
+  ],
+  "author": "H. Zs.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hangayzsolt/build-pipeline-exercise/issues"
+  },
+  "homepage": "https://github.com/hangayzsolt/build-pipeline-exercise"
+}
